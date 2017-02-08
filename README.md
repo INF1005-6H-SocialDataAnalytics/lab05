@@ -1,6 +1,6 @@
 # Lab 5 - Data Modeling and Visualisation
 
-[Lab 4 - Web scraping and the Twitter API](https://github.com/INF1005-6H-SocialDataAnalytics/lab04/blob/master/Lab%204%20--%20Web%20scraping%20and%20the%20Twitter%20API.ipynb)
+[Lab 5 - Data Modeling and Visualisation](https://github.com/INF1005-6H-SocialDataAnalytics/lab05/blob/master/Lab%2005%20-%20Data%20Modeling%20and%20Visualisation.ipynb)
 
 ![](img/download.png)
 
